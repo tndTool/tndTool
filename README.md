@@ -1,6 +1,5 @@
 <div align="center">
     <p> <b> Minimalism </b> </p>
-    <p> I code to make lives boring, to cry and for headache! </p>
 </div>
 
 <br/>
