@@ -4,7 +4,4 @@
     <a href="https://2kabhishek.github.io/projects" target="_blank" title="Snake eats commits!">
         <img width="700" src="https://raw.githubusercontent.com/2KAbhishek/2KAbhishek/master/assets/gen/snake.svg" />
     </a>
-    <a href="https://2kabhishek.github.io/projects" target="_blank" title="GitHub metrics!">
-        <img width="500" src="https://raw.githubusercontent.com/2KAbhishek/2KAbhishek/master/assets/gen/metrics.svg" />
-    </a>
 </div>
